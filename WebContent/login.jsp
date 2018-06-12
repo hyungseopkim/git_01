@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href="login.jsp">첫 페이지 입니다</a>
+	이렇게됩니다
 </body>
 </html>
